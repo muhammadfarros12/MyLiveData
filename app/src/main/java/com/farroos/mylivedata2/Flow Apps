@@ -1,0 +1,6 @@
+langkah dalam pembuatan aplikasi:
+1. buat untuk layoutnya di
+    file: activity_main.xml
+2. buat kelas baru dengan nama MainViewModel sebagai kelas ViewModel dari MainActivity
+3. Tambahkan metode untuk menjalankan timer di konstruktor
+4. setelah selesai, kita bisa memanggilnya di MainActivity
